@@ -22,8 +22,8 @@ let package = Package(
     ),
     .binaryTarget(
       name: "AppLovinAdapterSDK",
-      url: "https://raw.githubusercontent.com/ironsource-mobile/iOS-adapters/master/applovin-adapter/5.4.0/ISAppLovinAdapter5.4.0.zip",
-      checksum: "aef4c09fd48f283b4b68edf3979b1a32428627bb05b19f0a817898de08d31cf0"
+      url: "https://raw.githubusercontent.com/ironsource-mobile/iOS-adapters/master/applovin-adapter/5.5.0/ISAppLovinAdapter5.5.0.zip",
+      checksum: "b7568235a1a197b85b70d648397a4856f3ae7fb0c437ae0e47b240c06d851e6f"
     )
   ]
 )
