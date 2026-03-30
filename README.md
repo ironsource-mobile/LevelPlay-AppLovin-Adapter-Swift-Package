@@ -30,7 +30,7 @@ dependencies: [
 
 This package includes:
 - LevelPlay iOS SDK (Unity Mediation SDK)
-- AppLovin SDK v13.5.1
+- AppLovin SDK
 
 ## Documentation
 
