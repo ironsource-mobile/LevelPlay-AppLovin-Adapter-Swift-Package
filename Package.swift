@@ -8,7 +8,7 @@ let package = Package(
     .library(name: "AppLovinAdapter", targets: ["AppLovinAdapter"]),
   ],
   dependencies: [
-    .package(url: "https://github.com/AppLovin/AppLovin-MAX-Swift-Package", exact: "13.5.1"),
+    .package(url: "https://github.com/AppLovin/AppLovin-MAX-Swift-Package", exact: "13.6.3"),
     .package(url: "https://github.com/ironsource-mobile/Unity-Mediation-iAds-Swift-Package", "9.2.0"..<"10.0.0"),
   ],
   targets: [
@@ -22,8 +22,8 @@ let package = Package(
     ),
     .binaryTarget(
       name: "AppLovinAdapterSDK",
-      url: "https://raw.githubusercontent.com/ironsource-mobile/iOS-adapters/master/applovin-adapter/5.6.0/ISAppLovinAdapter5.6.0.zip",
-      checksum: "5dcac30b7f3c2baf1c3d0b4c3c43aacccaa903e4a4fe519debe65f84fae41dea"
+      url: "https://raw.githubusercontent.com/ironsource-mobile/iOS-adapters/master/applovin-adapter/5.7.0/ISAppLovinAdapter5.7.0.zip",
+      checksum: "d28642d59f780cdcffe07e02507d8f4ddc7b12a2b98a20531820613473b548c5"
     )
   ]
 )
